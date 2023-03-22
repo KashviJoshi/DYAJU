@@ -1,0 +1,89 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .firebaserc
+#	new file:   .gitignore
+#	new file:   dyaju/assets/css/styles.css
+#	new file:   dyaju/assets/img/about.jpg
+#	new file:   dyaju/assets/img/app1.png
+#	new file:   dyaju/assets/img/app2.png
+#	new file:   dyaju/assets/img/breakfast.jpg
+#	new file:   dyaju/assets/img/brownies.jpg
+#	new file:   dyaju/assets/img/burger.jpg
+#	new file:   dyaju/assets/img/cart.jpg
+#	new file:   dyaju/assets/img/chinese.jpg
+#	new file:   dyaju/assets/img/chole  bhature.jpg
+#	new file:   dyaju/assets/img/dinner.jpg
+#	new file:   dyaju/assets/img/dish.svg
+#	new file:   dyaju/assets/img/home.png
+#	new file:   dyaju/assets/img/indian.jpg
+#	new file:   dyaju/assets/img/indo.jpg
+#	new file:   dyaju/assets/img/italian.jpg
+#	new file:   dyaju/assets/img/lunch.jpg
+#	new file:   dyaju/assets/img/mexican.jpg
+#	new file:   dyaju/assets/img/momos.jpg
+#	new file:   dyaju/assets/img/movil-app.png
+#	new file:   dyaju/assets/img/pahadi.jpg
+#	new file:   dyaju/assets/img/pizza.svg
+#	new file:   dyaju/assets/img/shakes.jpg
+#	new file:   dyaju/assets/img/tikki.jpg
+#	new file:   dyaju/assets/img/truck.svg
+#	new file:   dyaju/assets/js/main.js
+#	new file:   dyaju/assets/scss/styles.scss
+#	new file:   dyaju/index.html
+#	new file:   firebase.json
+#	new file:   public/assets/css/styles.css
+#	new file:   public/assets/img/about.jpg
+#	new file:   public/assets/img/app1.png
+#	new file:   public/assets/img/app2.png
+#	new file:   public/assets/img/breakfast.jpg
+#	new file:   public/assets/img/brownies.jpg
+#	new file:   public/assets/img/burger.jpg
+#	new file:   public/assets/img/cart.jpg
+#	new file:   public/assets/img/chinese.jpg
+#	new file:   public/assets/img/chole  bhature.jpg
+#	new file:   public/assets/img/dinner.jpg
+#	new file:   public/assets/img/dish.svg
+#	new file:   public/assets/img/home.png
+#	new file:   public/assets/img/indian.jpg
+#	new file:   public/assets/img/indo.jpg
+#	new file:   public/assets/img/italian.jpg
+#	new file:   public/assets/img/lunch.jpg
+#	new file:   public/assets/img/mexican.jpg
+#	new file:   public/assets/img/momos.jpg
+#	new file:   public/assets/img/movil-app.png
+#	new file:   public/assets/img/pahadi.jpg
+#	new file:   public/assets/img/pizza.svg
+#	new file:   public/assets/img/shakes.jpg
+#	new file:   public/assets/img/tikki.jpg
+#	new file:   public/assets/img/truck.svg
+#	new file:   public/assets/js/main.js
+#	new file:   public/assets/scss/styles.scss
+#	new file:   public/index.html
+#	new file:   y/404.html
+#	new file:   y/index.html
+#
+# Changes not staged for commit:
+#	modified:   dyaju/assets/css/styles.css
+#	modified:   dyaju/assets/js/main.js
+#	modified:   dyaju/index.html
+#	modified:   public/index.html
+#
+# Untracked files:
+#	.hintrc
+#	dyaju/assets/css/LoginForm.css
+#	dyaju/assets/css/SignUpForm.css
+#	dyaju/assets/img/loader-2_food.gif
+#	dyaju/assets/js/Login.js
+#	dyaju/assets/js/SignUp.js
+#	dyaju/cart/
+#	dyaju/contactUs/
+#	dyaju/login/
+#	dyaju/script.js
+#
